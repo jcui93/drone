@@ -1,0 +1,95 @@
+Partlist
+
+Exported from Main.sch.bak.sch at 2016/8/3 12:02
+
+EAGLE Version 7.6.0 Copyright (c) 1988-2016 CadSoft
+
+Assembly variant: 
+
+Part     Value                    Device                   Package                      Library       Sheet
+
+C1       22u                      C-USC0603                C0603                        rcl           1
+C2       4.7u                     C-USC0603                C0603                        rcl           1
+C3       10u                      C-USC0603                C0603                        rcl           1
+C4       0.1u                     C-USC0603                C0603                        rcl           1
+C5       0.1u                     C-USC0603                C0603                        rcl           1
+C6       0.1u                     C-USC0603                C0603                        rcl           1
+C7       0.1u                     C-USC0603                C0603                        rcl           1
+C8       0.1u                     C-USC0603                C0603                        rcl           1
+C9       4.7u                     C-USC0603                C0603                        rcl           1
+C10      0.1u                     C-USC0603                C0603                        rcl           1
+C11      4.7u                     C-USC0603                C0603                        rcl           1
+C12      1u                       C-USC0603                C0603                        rcl           1
+C13      0.1u                     C-USC0603                C0603                        rcl           1
+C14      0.1u                     C-USC0603                C0603                        rcl           1
+C15      0.1u                     C-USC0603                C0603                        rcl           1
+C16      0.1u                     C-USC0603                C0603                        rcl           1
+C17      22                       C-USC0603                C0603                        rcl           1
+C18      22                       C-USC0603                C0603                        rcl           1
+C19      0.1u                     C-USC0603                C0603                        rcl           1
+C20      22                       C-USC0603                C0603                        rcl           1
+C21      0.1u                     C-USC0603                C0603                        rcl           1
+C22      10u                      C-USC0603                C0603                        rcl           1
+C23      0.1u                     C-USC0603                C0603                        rcl           1
+C24      22u                      C-USC0603                C0603                        rcl           1
+C25      0.1u                     C-USC0603                C0603                        rcl           1
+C26      10                       C-USC0603                C0603                        rcl           1
+C27      10                       C-USC0603                C0603                        rcl           1
+C28      0.1u                     C-USC0603                C0603                        rcl           1
+C29      0.1u                     C-USC0603                C0603                        rcl           1
+C30      10u                      C-USC0603                C0603                        rcl           1
+C31      0.1u                     C-USC0603                C0603                        rcl           1
+C32      0.1u                     C-USC0603                C0603                        rcl           1
+IC1      STM32F103ZET             STM32F103ZET             LQFP144                      micro-stm_v3  1
+IC2      MPU6050                  MPU6050                  QFN50P400X400X95-25T265X275N invensense    1
+L1       2.2u                     L-USL1812                L1812                        rcl           1
+L2       4.7u                     L-USL1812                L1812                        rcl           1
+LED1                              LED_E                    LED_1206                     eagle-ltspice 1
+LED2                              LED_E                    LED_1206                     eagle-ltspice 1
+LED3                              LED_E                    LED_1206                     eagle-ltspice 1
+LED4                              LED_E                    LED_1206                     eagle-ltspice 1
+Q1       8M                       CRYSTALHC49UP            HC49UP                       crystal       1
+Q2       32.768k                  CRYSTALHC49UP            HC49UP                       crystal       1
+R1       73.2k                    R-US_R1206               R1206                        rcl           1
+R2       22.1k                    R-US_R1206               R1206                        rcl           1
+R3       200k                     R-US_R0603               R0603                        rcl           1
+R4       499                      R-US_R0603               R0603                        rcl           1
+R5       22.1k                    R-US_R1206               R1206                        rcl           1
+R6       33.2k                    R-US_R0603               R0603                        rcl           1
+R7       129k                     R-US_R1206               R1206                        rcl           1
+R8       450k                     R-US_R0603               R0603                        rcl           1
+R9       50k                      R-US_R0603               R0603                        rcl           1
+R10      1M                       R-US_R0603               R0603                        rcl           1
+R11      4.7k                     R-US_R0603               R0603                        rcl           1
+R12      4.7k                     R-US_R0603               R0603                        rcl           1
+R13      10k                      R-US_R0603               R0603                        rcl           1
+R14      10k                      R-US_R0603               R0603                        resistor      1
+R15      10k                      R-US_R0603               R0603                        resistor      1
+R16      10k                      R-US_R0603               R0603                        resistor      1
+R17      10k                      R-US_R0603               R0603                        resistor      1
+R18      10k                      R-US_R0603               R0603                        resistor      1
+R19      510                      R-US_R0603               R0603                        rcl           1
+R20      510                      R-US_R0603               R0603                        rcl           1
+R21      510                      R-US_R0603               R0603                        rcl           1
+R22      510                      R-US_R0603               R0603                        rcl           1
+R23      120                      R-US_R0603               R0603                        rcl           1
+R24      120                      R-US_R0603               R0603                        rcl           1
+R25      120                      R-US_R0603               R0603                        rcl           1
+R26      120                      R-US_R0603               R0603                        rcl           1
+R27      47k                      R-US_R0603               R0603                        rcl           1
+R28      47k                      R-US_R0603               R0603                        rcl           1
+R29      47k                      R-US_R0603               R0603                        rcl           1
+R30      47k                      R-US_R0603               R0603                        rcl           1
+R31      47k                      R-US_R0603               R0603                        rcl           1
+SV1                               MA06-1                   MA06-1                       con-lstb      1
+SV2                               MA06-1                   MA06-1                       con-lstb      1
+SV3                               MA08-2                   MA08-2                       con-lstb      1
+SV4                               MA08-2                   MA08-2                       con-lstb      1
+SV5                               MA04-1                   MA04-1                       con-lstb      1
+SV6                               MA04-1                   MA04-1                       con-lstb      1
+SV7                               MA10-2                   MA10-2                       con-lstb      1
+U*1      LT3042                   LT3042                   LT3042                       LT3042        1
+U*2      TPS542941PWPTPS542941PWP TPS542941PWPTPS542941PWP HTSSOP16                     Project_Drone 1
+X1                                PN87520                  PN87520                      con-berg      1
+X2                                PN87520                  PN87520                      con-berg      1
+X3       FPS009-3000              FPS009-3000              FPS009-3000                  con-yamaichi  1
